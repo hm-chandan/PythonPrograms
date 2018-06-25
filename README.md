@@ -1,2 +1,2 @@
 # PythonPrograms
-All My Programs Goes Here
+All My Sample Programs Goes Here
