@@ -14,3 +14,4 @@ class dice():
         with open('log.txt','a') as fl:
             fl.write(' \n '+str(self.player_no)+' '+str(self.roll)+' '+self.name)
         print(self.roll)
+#checking
