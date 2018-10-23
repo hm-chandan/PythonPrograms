@@ -1,6 +1,6 @@
 #Write Python logic to count the number of capital letters and Lower case letters in a file
 
-import os
+import os  #importing inbuilt module os
 #os.chdir('C:\\Users\\lifei\\Desktop')
 with open("C:\\Users\\CHANDAN\\Desktop\\Python_StudyMaterial.txt") as today:
     count1=0

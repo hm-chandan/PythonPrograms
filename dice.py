@@ -1,4 +1,4 @@
-import random
+import random  #importing inbuilt module random
 
 class dice():
     

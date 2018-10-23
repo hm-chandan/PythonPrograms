@@ -1,5 +1,5 @@
-import sys,os               //importing system
-import time                 //importing time module
+import sys,os               //importing system inbuilt module
+import time                 //importing time module inbuilt module
 
 ctime=time.strftime("%H:%M")    //printing time in hours minutes
 print(ctime)
