@@ -1,4 +1,4 @@
-#Write Python logic to count the number of capital letters and Lower case letters in a file
+#Write Python logic to count the number of capital letters and Lower case letters in a file without re module
 
 import os  #importing inbuilt module os
 #os.chdir('C:\\Users\\lifei\\Desktop')
